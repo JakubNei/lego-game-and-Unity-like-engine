@@ -193,7 +193,7 @@ namespace MyEngine
                 }
             }
 
-            particleSimulation.Update(e.Time);
+            //particleSimulation.Update(e.Time); // ITS BROKEN :c
 
             var frustrumPlanes = GeometryUtility.CalculateFrustumPlanes(camera);
 
