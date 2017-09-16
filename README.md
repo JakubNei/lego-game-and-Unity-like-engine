@@ -1,4 +1,4 @@
-# lego-game-and-Unity-like-engine
+# Lego like game + Unity inspired engine
 Simple lego game made along with simple Unity inspired game engine.
 
 One semester we had a Computer Graphics, everyone did their projects in in C++, but I set out to create it in C# and make the scripting API exactly the same as Unity's scripting API.
